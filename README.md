@@ -1,2 +1,2 @@
-# vetirmag.github.io
-My personal website
+# Irma G
+Welcome to my personal website
